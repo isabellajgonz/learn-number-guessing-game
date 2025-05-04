@@ -8,3 +8,4 @@ git commit -m "Initial Commit"
 git rebase
 git rebase -i --root
 __vsc_prompt_cmd_original
+psql -U postgres < number_guess.sql
