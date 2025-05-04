@@ -5,3 +5,6 @@ chmod +x number_guess.sh
 git init
 git add .
 git commit -m "Initial Commit"
+git rebase
+git rebase -i --root
+__vsc_prompt_cmd_original
