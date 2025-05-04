@@ -98,3 +98,4 @@ git add .
 git commit -m "fix: actual fix of removing the answer in the beginning."
 cd ..
 git status
+git status
